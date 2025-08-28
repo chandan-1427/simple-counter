@@ -37,7 +37,7 @@ const Nav = () => {
 
             <div className="relative z-10 mt-2">
               <h2 className="text-2xl font-body mb-2 text-white">Hi, I'm 
-                <span className="text-3xl font-bold font-accent text-red-500">Chandan</span>
+                <span className="text-3xl font-bold font-accent text-red-500"> Chandan</span>
               </h2>
               <p className="font-accent text-base text-gray-300">
                 This is a simple interactive counter built with React, TailwindCSS, and Lucide.
